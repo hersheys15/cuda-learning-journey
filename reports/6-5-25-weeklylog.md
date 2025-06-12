@@ -12,7 +12,8 @@ This week, I organized this repository to track future development.
 
 
 ### 🧠 Key Takeaways
-
+- Header files for CUDA important
+- Pytorch is optimized for ML over cuda
 
 ## 📊 Benchmark Snapshot
 
