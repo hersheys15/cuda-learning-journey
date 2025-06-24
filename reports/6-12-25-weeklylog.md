@@ -2,16 +2,19 @@
 
 ## 🚧 Progress Summary
 
-This week, I 
+This week, I
 
 ### ✅ Completed
+
 - pytorch matrix multiplication
 
 ### ⚙️ Technical Notes
+
 - EPS (Equalization Power Scale) helps stabilize computation during range calibration and scale calculation.
 - Binding is used to ensure that the GPU kernel is executed with the correct parameters.
 
 ### 🧠 Key Takeaways
+
 - kernel fusion is adding two kernels together to reduce memory access and improve performance.
 - erasure coding is a method of data protection that allows for recovery of data even if some parts are lost or corrupted.
 
@@ -30,7 +33,9 @@ This week, I
 > GPU: NVIDIA RTX 4090
 
 ## 🔭 Goals for Next Week
+
 - Start writing `6-19-25-weeklylog.md`
+- <https://github.com/xlite-dev/LeetCUDA/tree/main/kernels>
 - flash-attn
 - relu
 - mat-transpose

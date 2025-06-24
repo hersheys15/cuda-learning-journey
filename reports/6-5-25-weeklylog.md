@@ -5,13 +5,14 @@
 This week, I organized this repository to track future development.
 
 ### ✅ Completed
+
 - Set up GitHub repo and directory structure
 - Drafted README and updated progress checklist
 
 ### ⚙️ Technical Notes
 
-
 ### 🧠 Key Takeaways
+
 - Header files for CUDA important
 - Pytorch is optimized for ML over cuda
 
@@ -25,6 +26,7 @@ This week, I organized this repository to track future development.
 > GPU: NVIDIA RTX 4090
 
 ## 🔭 Goals for Next Week
+
 - Start writing `6-12-25-weeklylog.md`
 
 ---
