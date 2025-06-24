@@ -2,7 +2,7 @@
 
 ## 🚧 Progress Summary
 
-This week, I
+This week, I implemented and benchmarked PyTorch-based matrix multiplication using both CPU and GPU (NVIDIA RTX 4090). I recorded detailed timing results across varying matrix sizes, highlighting significant GPU acceleration. I also deepened my understanding of low-level GPU execution by working with EPS (Equalization Power Scale) for range calibration and learning how binding ensures correct kernel parameter execution.
 
 ### ✅ Completed
 
