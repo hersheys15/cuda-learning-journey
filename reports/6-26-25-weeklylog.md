@@ -4,11 +4,12 @@
 
 ### ✅ Completed
 
--
+- ReLU f32 kernel done
 
 ### ⚙️ Technical Notes
 
--
+- ReLU is Rectified Linear Unit, found by doing output = max(0, input)
+- 
 
 ### 🧠 Key Takeaways
 
@@ -26,5 +27,7 @@
 ## 🔭 Goals for Next Week
 
 - Start writing `7-10-weeklylog.md`
+- Explore other kernels?
+- overleaf
 
 ---
